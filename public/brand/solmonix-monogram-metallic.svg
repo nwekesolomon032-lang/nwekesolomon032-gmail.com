@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <title>SOLMONIX STUDIO — Brushed Metallic Silver Monogram</title>
+  <defs>
+    <linearGradient id="smxSilverTop" x1="20" y1="14" x2="96" y2="66" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F5F7FA"/>
+      <stop offset="38%" stop-color="#C8CFD9"/>
+      <stop offset="68%" stop-color="#ECEFF4"/>
+      <stop offset="100%" stop-color="#9CA5B4"/>
+    </linearGradient>
+    <linearGradient id="smxSilverBottom" x1="24" y1="62" x2="100" y2="106" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#AEB7C4"/>
+      <stop offset="35%" stop-color="#EDF0F5"/>
+      <stop offset="72%" stop-color="#C2C9D4"/>
+      <stop offset="100%" stop-color="#E5E9F0"/>
+    </linearGradient>
+    <linearGradient id="smxBlueFacet" x1="58" y1="56" x2="82" y2="74" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2B77FF"/>
+      <stop offset="100%" stop-color="#075BFF"/>
+    </linearGradient>
+  </defs>
+  <path d="M38 14H100L82 32H38V40L62 52L50 64L20 49V32L38 14Z" fill="url(#smxSilverTop)"/>
+  <path d="M82 62L100 71V88L82 106H20L38 88H82V80L70 74L82 62Z" fill="url(#smxSilverBottom)"/>
+  <path d="M70 56L82 62L70 74L58 68L70 56Z" fill="url(#smxBlueFacet)"/>
+</svg>
